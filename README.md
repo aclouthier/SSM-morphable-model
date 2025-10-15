@@ -2,6 +2,7 @@
 
 This repository contains the data and functions required for the demo associated with the Mobilize Center webinar [Integrating Bone and Joint Geometry into Musculoskeletal Models](https://mobilize.stanford.edu/webinar-integrating-bone-and-joint-geometry-into-musculoskeletal-models/) created by Allison Clouthier, Anthony Gatti, Erin Lee, and Lauren Welte. 
 
+![Flowchart showing procedure](https://raw.githubusercontent.com/aclouthier/SSM-morphable-model/main/images/flowchart.png)
 
 The associated Colab notebook for the tutorial is here 
 <a target="_blank" href="https://colab.research.google.com/github/aclouthier/SSM-morphable-model/blob/main/morphable_model_demo.ipynb">
